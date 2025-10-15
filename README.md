@@ -1,2 +1,1 @@
-# gmail-reader
-gmail-reader-lambda
+Private AWS Lambda for processing my own Gmail
